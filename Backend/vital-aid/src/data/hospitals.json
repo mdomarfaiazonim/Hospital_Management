@@ -1,0 +1,257 @@
+[
+    {
+        "name": "Evercare Hospital",
+        "address": "5/1, Block A, Lalmatia, Satmosjid Road, Dhaka 1207",
+        "phone": "+880 2-55037242",
+        "email": "evercarehospital@gmail.com",
+        "location": "Dhaka",
+        "details": {
+            "totalDoctors": 45,
+            "totalBeds": 500,
+            "icuBeds": 50,
+            "mriMachines": 10,
+            "xRayMachines": 12,
+            "ventilators": 50
+        }
+    },
+    {
+        "name": "Square Hospital",
+        "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Dhaka 1205",
+        "phone": "+880 2-8144400",
+        "email": "squarehospital@gmail.com",
+        "location": "Dhaka",
+        "details": {
+            "totalDoctors": 40,
+            "totalBeds": 400,
+            "icuBeds": 60,
+            "mriMachines": 8,
+            "xRayMachines": 10,
+            "ventilators": 40
+        }
+    },
+    {
+        "name": "Apollo Hospital Chattogram",
+        "address": "9th Floor, A.K. Khan Tower, Agrabad, Chattogram",
+        "phone": "+880 31-2513782",
+        "email": "apolloctg@gmail.com",
+        "location": "Chattogram",
+        "details": {
+            "totalDoctors": 35,
+            "totalBeds": 300,
+            "icuBeds": 40,
+            "mriMachines": 5,
+            "xRayMachines": 8,
+            "ventilators": 25
+        }
+    },
+    {
+        "name": "Sylhet MAG Osmani Medical College Hospital",
+        "address": "Medical College Road, Sylhet",
+        "phone": "+880 821-713487",
+        "email": "osmanimedical@gmail.com",
+        "location": "Sylhet",
+        "details": {
+            "totalDoctors": 50,
+            "totalBeds": 600,
+            "icuBeds": 75,
+            "mriMachines": 12,
+            "xRayMachines": 15,
+            "ventilators": 70
+        }
+    },
+    {
+        "name": "Khulna Medical College Hospital",
+        "address": "Khulna Medical College Rd, Khulna",
+        "phone": "+880 41-760540",
+        "email": "kmchospital@gmail.com",
+        "location": "Khulna",
+        "details": {
+            "totalDoctors": 32,
+            "totalBeds": 500,
+            "icuBeds": 50,
+            "mriMachines": 6,
+            "xRayMachines": 10,
+            "ventilators": 40
+        }
+    },
+    {
+        "name": "Mymensingh Medical College Hospital",
+        "address": "Charpara, Mymensingh",
+        "phone": "+880 91-66350",
+        "email": "mmchospital@gmail.com",
+        "location": "Mymensingh",
+        "details": {
+            "totalDoctors": 42,
+            "totalBeds": 700,
+            "icuBeds": 60,
+            "mriMachines": 8,
+            "xRayMachines": 14,
+            "ventilators": 50
+        }
+    },
+    {
+        "name": "Rajshahi Medical College Hospital",
+        "address": "Sadar Hospital Road, Rajshahi",
+        "phone": "+880 721-772150",
+        "email": "rmchospital@gmail.com",
+        "location": "Rajshahi",
+        "details": {
+            "totalDoctors": 38,
+            "totalBeds": 750,
+            "icuBeds": 70,
+            "mriMachines": 10,
+            "xRayMachines": 15,
+            "ventilators": 60
+        }
+    },
+    {
+        "name": "Barisal Sher-E-Bangla Medical College Hospital",
+        "address": "Hospital Rd, Barisal",
+        "phone": "+880 431-2172426",
+        "email": "sherbanglahospital@gmail.com",
+        "location": "Barisal",
+        "details": {
+            "totalDoctors": 36,
+            "totalBeds": 500,
+            "icuBeds": 50,
+            "mriMachines": 6,
+            "xRayMachines": 10,
+            "ventilators": 35
+        }
+    },
+    {
+        "name": "Rangpur Medical College Hospital",
+        "address": "Medical East Gate, Rangpur",
+        "phone": "+880 521-62351",
+        "email": "rmchospital@gmail.com",
+        "location": "Rangpur",
+        "details": {
+            "totalDoctors": 47,
+            "totalBeds": 600,
+            "icuBeds": 60,
+            "mriMachines": 7,
+            "xRayMachines": 12,
+            "ventilators": 50
+        }
+    },
+    {
+        "name": "BIRDEM General Hospital",
+        "address": "122 Kazi Nazrul Islam Ave, Dhaka 1000",
+        "phone": "+880 2-9661551",
+        "email": "birdemhospital@gmail.com",
+        "location": "Dhaka",
+        "details": {
+            "totalDoctors": 43,
+            "totalBeds": 400,
+            "icuBeds": 60,
+            "mriMachines": 10,
+            "xRayMachines": 12,
+            "ventilators": 40
+        }
+    },
+    {
+        "name": "Jessore Medical College Hospital",
+        "address": "Jessore Sadar, Jessore",
+        "phone": "+880 421-711791",
+        "email": "jessoremedcollege@gmail.com",
+        "location": "Khulna",
+        "details": {
+            "totalDoctors": 28,
+            "totalBeds": 400,
+            "icuBeds": 40,
+            "mriMachines": 5,
+            "xRayMachines": 7,
+            "ventilators": 30
+        }
+    },
+    {
+        "name": "National Heart Foundation Hospital, Sylhet",
+        "address": "Shibgonj, Sylhet",
+        "phone": "+880 821-720405",
+        "email": "nhfsylhet@gmail.com",
+        "location": "Sylhet",
+        "details": {
+            "totalDoctors": 25,
+            "totalBeds": 200,
+            "icuBeds": 20,
+            "mriMachines": 2,
+            "xRayMachines": 3,
+            "ventilators": 10
+        }
+    },
+    {
+        "name": "Bogra Mohammad Ali Hospital",
+        "address": "Bogra Sadar, Bogra",
+        "phone": "+880 51-66444",
+        "email": "mohammadalihospital@gmail.com",
+        "location": "Rajshahi",
+        "details": {
+            "totalDoctors": 30,
+            "totalBeds": 300,
+            "icuBeds": 35,
+            "mriMachines": 5,
+            "xRayMachines": 8,
+            "ventilators": 25
+        }
+    },
+    {
+        "name": "Satkhira Sadar Hospital",
+        "address": "Satkhira Sadar, Satkhira",
+        "phone": "+880 47-7654701",
+        "email": "satkhirahospital@gmail.com",
+        "location": "Khulna",
+        "details": {
+            "totalDoctors": 22,
+            "totalBeds": 150,
+            "icuBeds": 15,
+            "mriMachines": 1,
+            "xRayMachines": 3,
+            "ventilators": 5
+        }
+    },
+    {
+        "name": "Cox's Bazar Medical College Hospital",
+        "address": "Kolatoli Road, Cox's Bazar",
+        "phone": "+880 341-52594",
+        "email": "coxmedical@gmail.com",
+        "location": "Chattogram",
+        "details": {
+            "totalDoctors": 33,
+            "totalBeds": 200,
+            "icuBeds": 20,
+            "mriMachines": 2,
+            "xRayMachines": 4,
+            "ventilators": 10
+        }
+    },
+    {
+        "name": "Dinajpur Medical College Hospital",
+        "address": "Dinajpur Sadar, Dinajpur",
+        "phone": "+880 531-64765",
+        "email": "dmchospital@gmail.com",
+        "location": "Rangpur",
+        "details": {
+            "totalDoctors": 34,
+            "totalBeds": 350,
+            "icuBeds": 30,
+            "mriMachines": 5,
+            "xRayMachines": 7,
+            "ventilators": 25
+        }
+    },
+    {
+        "name": "Jhenaidah Sadar Hospital",
+        "address": "Jhenaidah Sadar, Jhenaidah",
+        "phone": "+880 452-61425",
+        "email": "jhenaidahsadar@gmail.com",
+        "location": "Khulna",
+        "details": {
+            "totalDoctors": 21,
+            "totalBeds": 250,
+            "icuBeds": 20,
+            "mriMachines": 3,
+            "xRayMachines": 4,
+            "ventilators": 10
+        }
+    }
+]
